@@ -1,0 +1,7 @@
+export const EVENTS = {
+  JOIN_ROOM: "JOIN_ROOM",
+  CONNECT: "connect",
+  DISCONNECT: "disconnect",
+  SEND_MESSAGE: "SEND_MESSAGE",
+  USER_DATA_CURRENT_ROOM: "USER_DATA_CURRENT_ROOM",
+};
